@@ -4,7 +4,7 @@ Bem-vindo ao **CSS Border-Radius Showcase**! Este é um projeto simples, mas vis
 
 ## 🚀 Demo
 
-Visualize o projeto em ação aqui: **[[Link para a Live Demo](https://nexuscleo-commits.github.io/BorderRadius/)]**
+Visualize o projeto em ação aqui: **[[Link para a Live Demo](https://nexuscleo-commits.github.io/border-radius/)]**
 
 ---
 
