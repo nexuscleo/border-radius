@@ -42,12 +42,12 @@ Para visualizar o projeto em sua máquina local, siga estes passos simples:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/nexuscleo-commits/BorderRadius/archive/refs/heads/main.zip
+   git clone https://github.com/nexuscleo/border-radius/archive/refs/heads/main.zip
    ```
 
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd BorderRadius
+   cd border-radius
    ```
 
 3. **Abra o arquivo `index.html`** no seu navegador de preferência. E pronto!
